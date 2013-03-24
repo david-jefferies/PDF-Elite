@@ -8,6 +8,9 @@ things implemented in this module include:
 * custom coloured boxes/hline/vline
 * hyperlinks
 * adding images
+* exporting pages
+* importing pages
+* creating booklets
 * and much more...
 
 
