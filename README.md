@@ -8,6 +8,7 @@ things implemented in this module include:
 * custom coloured boxes/hline/vline
 * hyperlinks
 * adding images
+* and much more...
 
 
 Dependencies
